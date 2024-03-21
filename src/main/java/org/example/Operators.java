@@ -12,11 +12,7 @@ public class Operators {
 
         System.out.println("2nd task" + "\n" + "i value is: " + i);
 
-//        int c = a++;
-//        int d = ++a;
         int s = ++a + 1;
-//        System.out.println(c);
-//        System.out.println(d);
         System.out.println(a);
         System.out.println(s);
 
