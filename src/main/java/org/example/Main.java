@@ -26,7 +26,6 @@ public class Main {
         System.out.println("Сумма всех чисел в массиве равна: " + sum);
 
         // Задание с двумерным массивом
-        // Тут пока прошу не смотреть, я в процессе решения
         System.out.println("Введите количество массивов в двумерном массиве");
         int amountOfArrays = scanner.nextInt();
         System.out.println("Введите количество элементов в одном массиве");
